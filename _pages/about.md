@@ -16,7 +16,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
 2023.07: Our new paper on angle joint power estimation has been accepted by 2023 IEEE-EMBS International Conference on Body Sensor Networks!<br>
 2023.07: Our new paper on Graph-driven EMG model has submitted to JBHI!
 
-<h2 id="publications" style="scroll-margin-top: 80px;">Publications</h2>
+<h2 id="Research" style="scroll-margin-top: 80px;">Publications</h2>
 
 [**Feasibility of Wearable PPG for Simultaneous Hand Gesture and Force Level Classification**](https://ieeexplore.ieee.org/document/10036409)<br>_**Dongxuan Li**, Peiqi Kang, Kezhe Zhu, Jinxuan Li, and Peter B. Shull._<br>_03 February 2023, IEEE Sensors Journal_<br>_DOI: 10.1109/JSEN.2023.3241126_
 
