@@ -10,6 +10,15 @@ redirect_from:
 
 I'm a third-year Ph.D student from Shanghai Jiaotong University. My research interest includes dexterous prosthetic hand control, robot learning, and wearable sensing. I am very fortunate to be advised by [Prof. Peter Shull](http://www.wearablesystems.org/peter-shull) of Wearable systems Lab. You can find my [CV](../assets/CV_Dongxuan_Li.pdf) here. If you want to have a nice talk with me, don't hesitate to [email](mailto:sjtu_dongxuanli@sjtu.edu.cn) me.
 
+<h3>面向多自由度仿生手的神经驱动控制方法</h3>
+
+<p>
+面向仿生手自然操作与多自由度连续控制场景，开发基于高密度肌电和运动单位放电信息的
+<strong>神经驱动实时控制系统</strong>。
+设计运动神经元在线解码与动作映射算法，实现腕屈伸、旋前/旋后及手部开合的
+<strong>3-DoF 同步比例控制</strong>，并在截肢者中完成抓取、旋转、放置及多类日常操作任务验证。
+项目重点体现了<strong>人体运动意图感知、实时神经解码与机器人闭环控制</strong>能力。
+</p>
 
 <h3>面向多指协同运动的神经表征学习与在线人机交互接口</h3>
 
