@@ -27,12 +27,17 @@ _DOI: 10.1109/JBHI.2023.3268239_
 
 <h2 id="project" style="scroll-margin-top: 80px;">Project</h2>
 
-<h3>Huawei Project</h3>
+<h3>基于可穿戴肌电腕带的手写识别技术 | 华为技术有限公司</h3>
 
-<p>在这里填写项目介绍。</p>
+<p>
+面向可穿戴设备自然交互场景，研发基于EMG与IMU多模态感知的腕带式手写识别系统。
+完成30名用户、36类数字与字母手写数据采集，并设计基于TCN的跨用户时序识别模型。
+在无需目标用户训练数据的条件下，跨用户识别准确率达到72.47%；通过少量个性化校准后提升至92.42%。
+项目进一步完成多日测试与在线Demo验证，重点解决可穿戴手写交互中的跨用户泛化与快速个性化适配问题。
+</p>
 
 <video controls playsinline preload="metadata"
-       style="width: 100%; max-width: 900px;">
+       style="width: 80%; max-width: 900px;">
   <source src="/files/huawei_video.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
