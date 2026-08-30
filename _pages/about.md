@@ -10,14 +10,25 @@ redirect_from:
 
 I'm a third-year Ph.D student from Shanghai Jiaotong University. My research interest includes dexterous prosthetic hand control, robot learning, and wearable sensing. I am very fortunate to be advised by [Prof. Peter Shull](http://www.wearablesystems.org/peter-shull) of Wearable systems Lab. You can find my [CV](../assets/CV_Dongxuan_Li.pdf) here. If you want to have a nice talk with me, don't hesitate to [email](mailto:sjtu_dongxuanli@sjtu.edu.cn) me.
 
-<h3>面向多自由度仿生手的神经驱动控制方法</h3>
+<h2 id="Research" style="scroll-margin-top: 80px;">Research</h2>
 
+<h3>面向多自由度仿生手的神经驱动控制方法</h3>
 <p>
 面向仿生手自然操作与多自由度连续控制场景，开发基于高密度肌电和运动单位放电信息的
 <strong>神经驱动实时控制系统</strong>。
 设计运动神经元在线解码与动作映射算法，实现腕屈伸、旋前/旋后及手部开合的
 <strong>3-DoF 同步比例控制</strong>，并在截肢者中完成抓取、旋转、放置及多类日常操作任务验证。
 项目重点体现了<strong>人体运动意图感知、实时神经解码与机器人闭环控制</strong>能力。
+</p>
+
+<h3>面向腕手联合操作中动态腕部运动与抓握力意图解码方法</h3>
+
+<p>
+面向腕手协同操作中的<strong>运动位置与作用力联合感知</strong>需求，构建基于高密度肌电、IMU与力传感的多模态运动意图解码框架，
+实现动态腕部角度与抓握力的同步连续预测。
+设计<strong>GCN-LSTM 时空多任务网络</strong>，利用图卷积建模高密度肌电通道间的空间关联、LSTM提取时序依赖，
+并通过共享特征与独立回归头联合解码腕部运动与抓握力。
+进一步优化传感器配置与实时推理流程，将输入电极由192个减少至40个，在保持相近预测性能的同时实现<strong>300 ms以内的端到端在线解码</strong>。
 </p>
 
 <h3>面向多指协同运动的神经表征学习与在线人机交互接口</h3>
