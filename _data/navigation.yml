@@ -1,13 +1,10 @@
-# main links
+# Main navigation
 main:
   - title: "About"
     url: /
 
-  - title: "Updates"
-    url: /#updates
-
   - title: "Research"
-    url: /#Research
+    url: /#research
 
   - title: "Project"
     url: /#project
