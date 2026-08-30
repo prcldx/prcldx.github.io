@@ -1,4 +1,13 @@
-# main links links
+# main links
 main:
+  - title: "About"
+    url: /
+
+  - title: "Updates"
+    url: /#updates
+
+  - title: "Publications"
+    url: /#publications
+
   - title: "Project"
-    url: /projects/
+    url: /#project
