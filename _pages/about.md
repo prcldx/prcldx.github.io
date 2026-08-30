@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year graduate student from Shanghai Jiaotong University. My research interest includes wearable sensing, rehabilitation, and myoelectric control. I am very fortunate to be advised by [Prof. Peter Shull](http://www.wearablesystems.org/peter-shull) of Wearable systems Lab. You can find my [CV](../assets/CV_Dongxuan_Li.pdf) here. If you want to have a nice talk with me, don't hesitate to [email](mailto:sjtu_dongxuanli@sjtu.edu.cn) me.
+I'm a third-year Ph.D student from Shanghai Jiaotong University. My research interest includes dexterous prosthetic hand control, robot learning, and wearable sensing. I am very fortunate to be advised by [Prof. Peter Shull](http://www.wearablesystems.org/peter-shull) of Wearable systems Lab. You can find my [CV](../assets/CV_Dongxuan_Li.pdf) here. If you want to have a nice talk with me, don't hesitate to [email](mailto:sjtu_dongxuanli@sjtu.edu.cn) me.
 
 
 Updates
