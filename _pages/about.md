@@ -71,7 +71,11 @@ redirect_from:
 }
 </style>
 
-I'm a third-year Ph.D student from Shanghai Jiaotong University. My research interest includes dexterous prosthetic hand control, robot learning, and wearable sensing. I am very fortunate to be advised by [Prof. Peter Shull](http://www.wearablesystems.org/peter-shull) of Wearable Systems Lab. You can find my [CV](/assets/CV_Dongxuan_Li.pdf) here. If you want to have a nice talk with me, don't hesitate to [email](mailto:sjtu_dongxuanli@sjtu.edu.cn) me.
+我是上海交通大学机械工程专业机器人研究所博士三年级学生，师从陈晨副教授、朱向阳教授，预计于2027年毕业。此前于上海交通大学机器人研究所获得机械工程硕士学位，硕士阶段师从 [Peter B. Shull 教授](http://www.wearablesystems.org/peter-shull)。
+
+我的研究主要围绕**人机交互神经接口、人体运动意图解码与多自由度仿生手控制**展开，同时关注**灵巧操作、机器人学习、共享控制**。目前希望进一步将人体神经与运动信息感知同智能机器人技术相结合，探索更加自然、直观的人机交互与机器人控制方法。
+
+如果你对我的研究、潜在合作或相关工作机会感兴趣，欢迎通过[邮件](mailto:sjtu_dongxuanli@sjtu.edu.cn)与我联系。
 
 <h2 id="research"
     class="section-title"
@@ -79,7 +83,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
   Research
 </h2>
 
-<h3>面向多自由度仿生手的神经驱动控制方法</h3>
+<h3>1. 面向多自由度仿生手的神经驱动控制方法</h3>
 
 <p>
 面向仿生手自然操作与多自由度连续控制场景，开发基于高密度肌电和运动单位放电信息的
@@ -102,7 +106,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
 
 <hr class="content-divider">
 
-<h3>面向腕手联合操作中动态腕部运动与抓握力意图解码方法</h3>
+<h3>2. 面向腕手联合操作中动态腕部运动与抓握力意图解码方法</h3>
 
 <p>
 面向腕手协同操作中的
@@ -120,7 +124,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
 
 <hr class="content-divider">
 
-<h3>面向多指协同运动的神经表征学习与在线人机交互接口</h3>
+<h3>3. 面向多指协同运动的神经表征学习与在线人机交互接口</h3>
 
 <p>
 面向精细手指运动识别与机器人交互场景，开发基于高密度肌电和运动单位放电信息的
@@ -160,7 +164,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
   Project
 </h2>
 
-<h3>基于可穿戴肌电腕带的手写识别技术 | 华为技术有限公司 | 2026.04–至今</h3>
+<h3>1. 基于可穿戴肌电腕带的手写识别技术 | 华为技术有限公司 | 2026.04–至今</h3>
 
 <p>
 面向可穿戴设备自然交互场景，研发基于EMG与IMU多模态感知的腕带式手写识别系统。
@@ -184,7 +188,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
 
 <hr class="content-divider">
 
-<h3>运动单位放电序列非侵入式记录仪器</h3>
+<h3>2. 运动单位放电序列非侵入式记录仪器</h3>
 
 <p>
 面向神经接口与智能假肢中的高通量神经信息获取需求，参与研发
@@ -202,7 +206,7 @@ I'm a third-year Ph.D student from Shanghai Jiaotong University. My research int
 
 <hr class="content-divider">
 
-<h3>基于霍尔效应的力传感器设计与精细手势识别 | PICO / 字节跳动</h3>
+<h3>3. 基于霍尔效应的力传感器设计与精细手势识别 | PICO / 字节跳动</h3>
 
 <p>
 面向VR/AR等可穿戴交互场景，研发基于
