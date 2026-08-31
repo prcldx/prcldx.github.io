@@ -90,9 +90,7 @@ redirect_from:
 <strong>神经驱动实时控制系统</strong>。
 设计运动神经元在线解码与动作映射算法，实现腕屈伸、旋前/旋后及手部开合的
 <strong>3-DoF 同步比例控制</strong>，并在截肢者中完成抓取、旋转、放置及多类日常操作任务验证。
-项目重点体现了
-<strong>人体运动意图感知、实时神经解码与机器人闭环控制</strong>
-能力。
+[论文链接](https://www.science.org/doi/full/10.1126/sciadv.aej0245)
 </p>
 
 <video controls
