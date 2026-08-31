@@ -128,6 +128,17 @@ redirect_from:
 <strong>300 ms以内的端到端在线解码</strong>。
 </p>
 
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/jbhi-ga.jpg"
+       alt="Graphical abstract of the wrist angle and grasp force estimation study"
+       loading="lazy"
+       style="display: block; width: 100%; max-width: 900px; height: auto; margin: 0 auto; border-radius: 6px;">
+
+  <figcaption style="margin-top: 8px; color: #555; font-size: 0.95rem;">
+    基于高密度肌电的腕部角度与抓握力同步连续预测框架
+  </figcaption>
+</figure>
+
 <p>
   <a href="https://doi.org/10.1109/JBHI.2024.3373432"
      target="_blank"
