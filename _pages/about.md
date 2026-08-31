@@ -89,8 +89,16 @@ redirect_from:
 面向仿生手自然操作与多自由度连续控制场景，开发基于高密度肌电和运动单位放电信息的
 <strong>神经驱动实时控制系统</strong>。
 设计运动神经元在线解码与动作映射算法，实现腕屈伸、旋前/旋后及手部开合的
-<strong>3-DoF 同步比例控制</strong>，并在截肢者中完成抓取、旋转、放置及多类日常操作任务验证。
-[论文链接](https://www.science.org/doi/full/10.1126/sciadv.aej0245)
+<strong>3-DoF 同步比例控制</strong>，
+并在截肢者中完成抓取、旋转、放置及多类日常操作任务验证。
+</p>
+
+<p>
+  <a href="https://doi.org/10.1126/sciadv.aej0245"
+     target="_blank"
+     rel="noopener noreferrer">
+    论文：A motoneuron discharge-driven interface realizing simultaneous and proportional control of prosthetics in end-users
+  </a>
 </p>
 
 <video controls
