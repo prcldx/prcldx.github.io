@@ -204,6 +204,17 @@ redirect_from:
 并在自研256通道HD-sEMG系统上完成腕手动作识别验证。
 </p>
 
+<video controls
+       playsinline
+       preload="metadata"
+       width="1280"
+       height="720"
+       class="content-video">
+  <source src="/files/mu_decomp.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+  <a href="/files/huawei_video.mp4">点击此处查看视频</a>
+</video>
+
 <hr class="content-divider">
 
 <h3>3. 基于霍尔效应的力传感器设计与精细手势识别 | PICO / 字节跳动</h3>
