@@ -143,7 +143,16 @@ redirect_from:
   <a href="https://doi.org/10.1109/JBHI.2024.3373432"
      target="_blank"
      rel="noopener noreferrer">
-    Graph-Driven Simultaneous and Proportional Estimation of Wrist Angle and Grasp Force via High-Density EMG
+    论文：Graph-Driven Simultaneous and Proportional Estimation of Wrist Angle and Grasp Force via High-Density EMG
+  </a>
+</p>
+
+<p>
+  <a href="https://doi.org/10.1109/TBME.2025.3575252"
+     target="_blank"
+     rel="noopener noreferrer">
+    论文：Integrating Motor Unit Activity With Deep Learning for Real-Time,
+    Simultaneous and Proportional Wrist Angle and Grasp Force Estimation
   </a>
 </p>
 
