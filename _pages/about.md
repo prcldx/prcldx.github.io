@@ -128,6 +128,14 @@ redirect_from:
 <strong>300 ms以内的端到端在线解码</strong>。
 </p>
 
+<p>
+  <a href="https://doi.org/10.1109/JBHI.2024.3373432"
+     target="_blank"
+     rel="noopener noreferrer">
+    Graph-Driven Simultaneous and Proportional Estimation of Wrist Angle and Grasp Force via High-Density EMG
+  </a>
+</p>
+
 <hr class="content-divider">
 
 <h3>3. 面向多指协同运动的神经表征学习与在线人机交互接口</h3>
